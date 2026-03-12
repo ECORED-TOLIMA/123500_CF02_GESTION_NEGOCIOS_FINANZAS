@@ -100,11 +100,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -112,7 +107,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_02_123500.zip',
+        download: 'downloads/CFA2_123500_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -215,14 +210,12 @@ export default {
     {
       referencia:
         'Gómez, I. y Brito, J. (2020). Administración de Operaciones. Universidad Internacional del Ecuador. ',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/131260?page=147 ',
+      link: '',
     },
     {
       referencia:
         'Núñez, A. (2014). Dirección de operaciones: decisiones tácticas y estratégicas. Editorial UOC.',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/57659?page=616',
+      link: '',
     },
     {
       referencia:
